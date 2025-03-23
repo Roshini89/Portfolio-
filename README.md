@@ -1,5 +1,6 @@
-<html>
-<head>
+<!DOCTYPE html>
+    <html>  
+    <head>
     <title>Portfolio</title>
     <style>
         body{
@@ -13,7 +14,7 @@
             background-color: #941919;
             color: #fff;
             text-align: center;
-            padding: 8rem 0;
+            padding: 2rem 0;
             position: relative; /* Add this */
         }
 
@@ -24,12 +25,12 @@
         /* Add styles for the round profile picture */
         .profile-picture {
             width: 75px; /* Adjust the size as needed */
-            height: 75px; 
+            height: 100px; 
             border-radius: 75%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top: 75px; /* Adjust top position as needed */
-            left: 100px; /* Adjust left position as needed */
+            left: 250px; /* Adjust left position as needed */
         }
 
         nav {
