@@ -24,12 +24,12 @@
 
         /* Add styles for the round profile picture */
         .profile-picture {
-            width:100px; /* Adjust the size as needed */
-            height:100px; 
+            width:50px; /* Adjust the size as needed */
+            height:50px; 
             border-radius: 75%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
-            top:200px; /* Adjust top position as needed */
+            top:50px; /* Adjust top position as needed */
             left:50px; /* Adjust left position as needed */
         }
 
