@@ -13,7 +13,7 @@
             background-color: #941919;
             color: #fff;
             text-align: center;
-            padding: 2rem 0;
+            padding: 8rem 0;
             position: relative; /* Add this */
         }
 
