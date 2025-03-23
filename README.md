@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-    <html>  
-    <head>
+<html>  
+<head>
     <title>Portfolio</title>
     <style>
         body{
