@@ -24,13 +24,13 @@
 
         /* Add styles for the round profile picture */
         .profile-picture {
-            width: 100px; /* Adjust the size as needed */
-            height: 100px; 
-            border-radius: 100%; /* Create a circular shape */
+            width: 75px; /* Adjust the size as needed */
+            height: 75px; 
+            border-radius: 75%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
-            top: 100px; /* Adjust top position as needed */
-            left: 250px; /* Adjust left position as needed */
+            top: 75px; /* Adjust top position as needed */
+            left: 75px; /* Adjust left position as needed */
         }
 
         nav {
