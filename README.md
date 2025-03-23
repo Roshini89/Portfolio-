@@ -30,7 +30,7 @@
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top:50px; /* Adjust top position as needed */
-            left:50px; /* Adjust left position as needed */
+            left:30px; /* Adjust left position as needed */
         }
 
         nav {
