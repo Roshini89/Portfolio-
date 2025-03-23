@@ -1,6 +1,6 @@
-  <!DOCTYPE html> 
-  <html>  
-  <head>
+<!DOCTYPE html> 
+<html>  
+<head>
     <title>Portfolio</title>
     <style>
         body{
@@ -30,7 +30,7 @@
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top:100px; /* Adjust top position as needed */
-            left:100px; /* Adjust left position as needed */
+            left:500px; /* Adjust left position as needed */
         }
 
         nav {
