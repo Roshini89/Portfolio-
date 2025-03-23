@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -23,12 +24,12 @@
 
         /* Add styles for the round profile picture */
         .profile-picture {
-            width: 100px; /* Adjust the size as needed */
-            height: 100px;
+            width: 50px; /* Adjust the size as needed */
+            height: 40px;
             border-radius: 75%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
-            top: 100px; /* Adjust top position as needed */
+            top: 10px; /* Adjust top position as needed */
             left: 50px; /* Adjust left position as needed */
         }
 
