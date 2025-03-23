@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -19,7 +19,7 @@
         }
 
         .header-content h1 {
-            font-size: 2.5rem;
+            font-size: 5.5rem;
         }
 
         /* Add styles for the round profile picture */
