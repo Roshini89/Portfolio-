@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -29,7 +28,7 @@
             border-radius: 75%; /* Create a circular shape */
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
-            top: 75px; /* Adjust top position as needed */
+            top: 100px; /* Adjust top position as needed */
             left: 50px; /* Adjust left position as needed */
         }
 
