@@ -1,4 +1,4 @@
-<DOCTYPE html>
+</DOCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -19,7 +19,7 @@
         }
 
         .header-content h1 {
-            font-size: 5.5rem;
+            font-size: 2.5rem;
         }
 
         /* Add styles for the round profile picture */
@@ -30,7 +30,7 @@
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top: 100px; /* Adjust top position as needed */
-            left: 100px; /* Adjust left position as needed */
+            left: 250px; /* Adjust left position as needed */
         }
 
         nav {
