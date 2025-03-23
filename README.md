@@ -1,4 +1,3 @@
-</DOCTYPE html>
 <html>
 <head>
     <title>Portfolio</title>
@@ -30,7 +29,7 @@
             object-fit: cover; /* To ensure the image fills the circular area */
             position: absolute; /* Add this */
             top: 75px; /* Adjust top position as needed */
-            left: 75px; /* Adjust left position as needed */
+            left: 100px; /* Adjust left position as needed */
         }
 
         nav {
